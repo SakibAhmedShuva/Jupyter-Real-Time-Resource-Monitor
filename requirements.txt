@@ -1,0 +1,6 @@
+psutil==7.0.0
+matplotlib==3.10.3
+numpy==2.2.5
+GPUtil==1.4.0
+ipython==8.36.0
+
