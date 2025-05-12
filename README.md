@@ -2,11 +2,12 @@
 
 A Jupyter Notebook utility created by [SakibAhmedShuva](https://github.com/SakibAhmedShuva) to help in managing and monitoring system resources directly within your Jupyter environment. This tool provides both a live, plotting-based real-time resource monitor and a static HTML snapshot of your system's current state.
 
-![Live Plot Output Example](https://raw.githubusercontent.com/SakibAhmedShuva/Jupyter-Real-Time-Resource-Monitor/main/docs/live_plot_example.png)
-*(You'll need to add an actual screenshot of the live plot to your repo for this image to work, e.g., in a `docs` folder with this repository name)*
+![image](https://github.com/user-attachments/assets/94aec003-5741-4492-a26b-146a42ee9001)
 
-![HTML Snapshot Example](https://raw.githubusercontent.com/SakibAhmedShuva/Jupyter-Real-Time-Resource-Monitor/main/docs/html_snapshot_example.png)
-*(Similarly, add a screenshot of the HTML output with this repository name)*
+
+
+![image](https://github.com/user-attachments/assets/546278c1-0149-440c-8f84-6d4a2dcb0fd5)
+
 
 ## 🌟 Features
 
@@ -127,5 +128,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 📄 License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details (You should add a `LICENSE` file to your repository, MIT is a good default).
-
----
